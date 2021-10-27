@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.ViewPagerTv" parent="@style/Theme.Leanback" />
+</resources>
